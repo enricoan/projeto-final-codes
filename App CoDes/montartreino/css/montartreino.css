@@ -1,0 +1,377 @@
+body {
+  height: 100%;
+  background: url('../images/WhatsApp%20Image%202018-11-23%20at%2019.04.39.jpeg') rgb(76, 45, 68);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  font: 400 0.813em/1.38 Arial;
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  position: relative;
+  float: left;
+  z-index: 9;
+  width: 5.19921775%;
+  height: 52px;
+  margin: 20px 0 0 10%;
+}
+
+.element {
+  position: relative;
+  float: left;
+  width: 3.8333333333%;
+  height: 41px;
+  border-radius: 30px;
+  background: url('../images/plusicon.png') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.text {
+  position: relative;
+  float: left;
+  color: rgb(22, 55, 81);
+}
+
+._button {
+  display: block;
+  float: left;
+  clear: both;
+  width: 11.5%;
+  height: 60px;
+  margin: 29px 0 0 26.74349%;
+  border: 2px double rgb(91, 141, 79);
+  border-radius: 12px;
+  background-color: rgb(94, 147, 77);
+  font-size: 1.692em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._select {
+  display: block;
+  position: relative;
+  float: left;
+  padding-left: 10px;
+  border: 1px solid rgb(119, 119, 119);
+  border-radius: 3px;
+  background: url('../images/select-arrows.svg') rgb(242, 242, 242);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: right center;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.element-1 {
+  z-index: 12;
+  margin: 7px 0 0 10%;
+}
+
+.element-2 {
+  clear: both;
+  z-index: 10;
+  margin: 50px 0 0 11.67839%;
+}
+
+.element-3 {
+  clear: both;
+  z-index: 14;
+  margin: 55px 0 0 10%;
+}
+
+.text-1 {
+  clear: both;
+  z-index: 3;
+  width: 13.6%;
+  min-height: 45px;
+  margin: 11px 0 0 10%;
+  font-size: 2em;
+}
+
+.text-10 {
+  z-index: 18;
+  width: 11.0833333333%;
+  min-height: 27px;
+  margin: 23px 0 0 5.66797%;
+  font-size: 1.846em;
+}
+
+.text-2 {
+  clear: both;
+  z-index: 0;
+  width: 28%;
+  min-height: 92px;
+  margin: -116px 0 0 15.19922%;
+  font: normal 2.923em/1.5 'Arial Negrito';
+}
+
+.text-3 {
+  z-index: 13;
+  width: 16.3333333333%;
+  min-height: 34px;
+  margin: 14px 0 0 1.36589%;
+  font-size: 1.692em;
+}
+
+.text-4 {
+  clear: both;
+  z-index: 4;
+  width: 6.7999999999%;
+  min-height: 29px;
+  margin: 31px 0 0 10%;
+  font-size: 1.846em;
+}
+
+.text-5 {
+  z-index: 11;
+  width: 16.5%;
+  min-height: 34px;
+  margin: 57px 0 0 0.48698%;
+  font-size: 1.692em;
+}
+
+.text-6 {
+  clear: both;
+  z-index: 5;
+  width: 8.5833333333%;
+  min-height: 36px;
+  margin: 11px 0 0 13.41667%;
+  font-size: 1.846em;
+}
+
+.text-7 {
+  z-index: 7;
+  width: 11.0833333333%;
+  min-height: 27px;
+  margin: 11px 0 0 3.93099%;
+  font-size: 1.846em;
+}
+
+.text-8 {
+  z-index: 15;
+  width: 15.8333333333%;
+  min-height: 34px;
+  margin: 62px 0 0 0.75%;
+  font-size: 1.692em;
+}
+
+.text-9 {
+  clear: both;
+  z-index: 17;
+  width: 8.5833333333%;
+  min-height: 36px;
+  margin: 23px 0 0 11.67839%;
+  font-size: 1.846em;
+}
+
+._select-1 {
+  z-index: 1;
+  width: 13.4166666666%;
+  height: 51px;
+  margin: -51px 0 0 23.59896%;
+}
+
+._select-2 {
+  z-index: 2;
+  width: 17.7833333333%;
+  height: 45px;
+  margin: 24px 0 0 1.81771%;
+}
+
+._select-3 {
+  clear: both;
+  z-index: 6;
+  width: 12.8489583333%;
+  height: 48px;
+  margin: 6px 0 0 12.375%;
+}
+
+._select-4 {
+  z-index: 8;
+  width: 6.3333333333%;
+  height: 48px;
+  margin: 6px 0 0 3.9375%;
+}
+
+._select-5 {
+  clear: both;
+  z-index: 16;
+  width: 12.8489583333%;
+  height: 48px;
+  margin: 17px 0 0 11.67839%;
+}
+
+._select-6 {
+  z-index: 19;
+  width: 6.3333333333%;
+  height: 48px;
+  margin: 17px 0 0 2.23438%;
+}
+
+@media(max-width: 375px) {
+  .container {
+    position: relative;
+    z-index: 9;
+    width: 10.1333333333%;
+    margin-top: 10px;
+    margin-left: 2.4%;
+  }
+
+  .element {
+    position: relative;
+    width: 7.2%;
+    height: 30px;
+  }
+
+  .text {
+    position: relative;
+  }
+
+  ._button {
+    clear: none;
+    width: 28%;
+    margin-top: 103px;
+    margin-left: 9.46667%;
+  }
+
+  ._select {
+    position: relative;
+  }
+
+  .element-1 {
+    z-index: 12;
+    margin-top: 14px;
+    margin-left: 8.21667%;
+  }
+
+  .element-2 {
+    z-index: 10;
+    margin-top: 17px;
+    margin-left: 16.79167%;
+  }
+
+  .element-3 {
+    z-index: 14;
+    margin-top: 22px;
+    margin-left: 8.21667%;
+  }
+
+  .text-1 {
+    z-index: 3;
+    width: 46.1333333333%;
+    margin-top: 20px;
+    margin-left: 10.12917%;
+  }
+
+  .text-10 {
+    z-index: 18;
+    width: 33.0666666666%;
+    margin-top: 9px;
+    margin-left: 7.25%;
+  }
+
+  .text-2 {
+    z-index: 0;
+    width: 64%;
+    margin-top: -127px;
+    margin-left: 17.2%;
+    font-size: 2.769em;
+  }
+
+  .text-3 {
+    z-index: 13;
+    width: 44%;
+    margin-left: 3.5125%;
+    font-size: 1.538em;
+  }
+
+  .text-4 {
+    z-index: 4;
+    width: 26.1333333333%;
+    margin-top: 20px;
+  }
+
+  .text-5 {
+    z-index: 11;
+    width: 46.9333333333%;
+    margin-top: 17px;
+    margin-left: 3.7375%;
+    font-size: 1.538em;
+  }
+
+  .text-6 {
+    z-index: 5;
+    width: 27.7333333333%;
+    margin-top: 18px;
+    margin-left: 16.79167%;
+  }
+
+  .text-7 {
+    z-index: 7;
+    width: 33.0666666666%;
+    margin-top: 18px;
+    margin-left: 9.60417%;
+  }
+
+  .text-8 {
+    z-index: 15;
+    width: 46.9333333333%;
+    margin-top: 22px;
+    margin-left: 1.375%;
+    font-size: 1.538em;
+  }
+
+  .text-9 {
+    z-index: 17;
+    width: 27.7333333333%;
+    margin-top: 9px;
+    margin-left: 8.21667%;
+  }
+
+  ._select-1 {
+    z-index: 1;
+    width: 14%;
+    height: 32px;
+    margin-top: -35px;
+    margin-left: 60.6625%;
+  }
+
+  ._select-2 {
+    z-index: 2;
+    width: 23.4666666666%;
+    height: 30px;
+    margin-top: 23px;
+    margin-left: 3.99167%;
+  }
+
+  ._select-3 {
+    z-index: 6;
+    width: 29.3333333333%;
+    margin-top: 7px;
+    margin-left: 16.79167%;
+  }
+
+  ._select-4 {
+    z-index: 8;
+    width: 12.5333333333%;
+    margin-top: 7px;
+    margin-left: 14.5375%;
+  }
+
+  ._select-5 {
+    z-index: 16;
+    width: 29.3333333333%;
+    margin-top: 0;
+    margin-left: 8.21667%;
+  }
+
+  ._select-6 {
+    z-index: 19;
+    width: 12.5333333333%;
+    margin-top: 0;
+    margin-left: 11.65%;
+  }
+}

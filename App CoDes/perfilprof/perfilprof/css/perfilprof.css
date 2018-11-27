@@ -1,0 +1,128 @@
+body {
+  height: 100%;
+  background: url('../images/WhatsApp%20Image%202018-11-23%20at%2019.04.39.jpeg') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left top;
+  background-attachment: fixed;
+  font: 400 1.125em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.image {
+  display: block;
+  position: relative;
+  float: left;
+  overflow: hidden;
+}
+
+.text {
+  position: fixed;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._image {
+  height: auto;
+}
+
+.element-1 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 10;
+  width: 4.6671875%;
+  height: 56px;
+  margin: -56px 0 0 12.1328125%;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-2 {
+  position: fixed;
+  top: 464px;
+  left: 0;
+  right: 0;
+  z-index: 4;
+  width: 54.3997395833%;
+  height: 46px;
+  margin: 0 auto;
+  background-color: rgb(194, 211, 239);
+}
+
+.element-3 {
+  position: fixed;
+  top: 386px;
+  left: 0;
+  right: 0;
+  z-index: 3;
+  width: 54.3997395833%;
+  height: 46px;
+  margin: 0 auto;
+  background-color: rgb(194, 211, 239);
+}
+
+.element-4 {
+  position: fixed;
+  top: 312px;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  width: 54.3997395833%;
+  height: 46px;
+  margin: 0 auto;
+  background-color: rgb(194, 211, 239);
+}
+
+.image-1 {
+  z-index: 1;
+  width: 97px;
+  margin: 35px 0 0 13.91667%;
+  text-align: left;
+}
+
+.image-2 {
+  clear: both;
+  z-index: 9;
+  width: 56px;
+  margin-left: 145px;
+}
+
+.image-3 {
+  z-index: 8;
+  width: 154px;
+  margin: -46px 0 0 43.99349%;
+}
+
+.text-1 {
+  top: 474px;
+  z-index: 7;
+  width: 54.3333333333%;
+  min-height: 16px;
+  font-size: 1em;
+}
+
+.text-2 {
+  top: 398px;
+  z-index: 6;
+  width: 54.4166666666%;
+  min-height: 23px;
+  font-size: 1em;
+}
+
+.text-3 {
+  top: 326px;
+  z-index: 5;
+  width: 54.4166666666%;
+  min-height: 21px;
+  font-size: 1em;
+}
+
+.text-4 {
+  top: 247px;
+  width: 54.5%;
+  min-height: 12px;
+  font-size: 1.111em;
+}

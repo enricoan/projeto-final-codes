@@ -1,0 +1,186 @@
+body {
+  height: 100%;
+  background: url('../images/unfocused-gym(2).jpg') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.element {
+  float: left;
+}
+
+.text {
+  position: relative;
+  float: left;
+  color: rgb(0, 0, 0);
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 1;
+  width: 14.4%;
+  height: 51px;
+  margin: -67px 0 0 10px;
+  border-radius: 3px;
+  background: url('../images/circled-left-2(4).png') #c2d3ef;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  font-family: 'Yanone Kaffeesatz';
+  font-size: 1em;
+  text-align: center;
+  color: #c2d3ef;
+}
+
+.element-1 {
+  position: relative;
+  z-index: 0;
+  width: 100%;
+  height: 97px;
+  background-color: rgb(194, 211, 239);
+}
+
+.element-2 {
+  position: relative;
+  z-index: 3;
+  width: 66.6666666666%;
+  height: 100px;
+  margin-top: 19px;
+  border-radius: 30px;
+  background-color: rgb(222, 222, 222);
+}
+
+.element-3 {
+  position: relative;
+  z-index: 4;
+  width: 65.8666666666%;
+  height: 55px;
+  margin: 21px 0 0 32%;
+  border-radius: 30px;
+  background-color: rgb(222, 222, 222);
+}
+
+.element-4 {
+  position: relative;
+  z-index: 9;
+  width: 66.6666666666%;
+  height: 100px;
+  margin: 11px 0 0 2.66667%;
+  border-radius: 30px;
+  background-color: rgb(222, 222, 222);
+}
+
+.element-5 {
+  position: relative;
+  z-index: 5;
+  width: 65.8666666666%;
+  height: 148px;
+  margin: 22px 0 0 32%;
+  border-radius: 30px;
+  background-color: rgb(222, 222, 222);
+}
+
+.element-6 {
+  width: 60%;
+  height: 81px;
+  margin: 32px 0 0 37.85417%;
+  border-radius: 30px;
+  background: url('../images/supino%20invertido.jpg') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center center;
+}
+
+.element-7 {
+  position: relative;
+  clear: both;
+  z-index: 14;
+  width: 70.9333333333%;
+  height: 52px;
+  margin: 5px 0 0 26.92917%;
+  border-radius: 30px;
+  background-color: rgb(222, 222, 222);
+}
+
+.element-8 {
+  position: relative;
+  z-index: 12;
+  width: 100%;
+  height: 52px;
+  margin-top: 19px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 13px;
+  background: url('../images/send(2).png') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 90% 50%;
+}
+
+.text-1 {
+  z-index: 2;
+  width: 52.2666666666%;
+  min-height: 38px;
+  margin: -67px 0 0 26.925%;
+  font: 700 2em/1.68 'Yanone Kaffeesatz';
+}
+
+.text-2 {
+  clear: both;
+  z-index: 7;
+  width: 55.4666666666%;
+  min-height: 20px;
+  margin: -79px 0 0 5.86667%;
+  font-size: 1em;
+}
+
+.text-3 {
+  clear: both;
+  z-index: 8;
+  width: 54.4%;
+  min-height: 28px;
+  margin: -43px 0 0 37.85417%;
+  font-size: 1em;
+}
+
+.text-4 {
+  clear: both;
+  z-index: 10;
+  width: 55.4666666666%;
+  min-height: 20px;
+  margin: -74px 0 0 8.52917%;
+  font-size: 1em;
+}
+
+.text-5 {
+  clear: both;
+  z-index: 11;
+  width: 54.4%;
+  min-height: 50px;
+  margin: -129px 0 0 37.85417%;
+  font-size: 1em;
+}
+
+.text-6 {
+  clear: both;
+  z-index: 15;
+  width: 60%;
+  min-height: 44px;
+  margin: -44px 0 0 33.71667%;
+  font-size: 1em;
+}
+
+.text-7 {
+  clear: both;
+  z-index: 13;
+  width: 73.3333333333%;
+  min-height: 24px;
+  margin: -41px 0 0 4.26667%;
+  font-size: 1.313em;
+  font-weight: 700;
+}

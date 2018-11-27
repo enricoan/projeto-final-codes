@@ -1,0 +1,96 @@
+body {
+  height: 100%;
+  background: url('../images/WhatsApp%20Image%202018-11-23%20at%2019.04.39.jpeg') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  background-attachment: fixed;
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(255, 255, 255);
+}
+
+.element {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 109.4166666666%;
+  height: 97px;
+  margin: 0 auto;
+  background-color: rgb(194, 211, 239);
+}
+
+.text {
+  position: fixed;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+._button {
+  display: block;
+  position: fixed;
+  left: 0;
+  right: 0;
+  width: 66.3333333333%;
+  margin: 0 auto;
+  border-radius: 3px;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._input {
+  display: block;
+  position: fixed;
+  left: 0;
+  right: 0;
+  width: 66.4166666666%;
+  height: 32px;
+  margin: 0 auto;
+  padding: 0 10px;
+  background-color: rgb(242, 242, 242);
+  font-size: 0.813em;
+  color: rgb(0, 0, 0);
+}
+
+.text-1 {
+  top: 352px;
+  z-index: 5;
+  width: 1.75%;
+  min-height: 20px;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-2 {
+  top: 21px;
+  z-index: 1;
+  font-size: 2.5em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._button-1 {
+  top: 408px;
+  z-index: 4;
+  height: 50px;
+  background-color: rgb(218, 225, 237);
+}
+
+._button-2 {
+  top: 271px;
+  z-index: 3;
+  height: 49px;
+  background-color: rgb(194, 211, 239);
+}
+
+._input-1 {
+  top: 131px;
+  z-index: 6;
+}
+
+._input-2 {
+  top: 191px;
+  z-index: 2;
+}
